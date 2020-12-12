@@ -1,0 +1,25 @@
+// Comentario 
+// Unilinea
+/* Otro 
+ comentario 
+ multilinea */
+SET 100;200;300
+TEXT Personajes cargados!
+DELAY 200
+TEXT привет wachinex. texto rusinski
+TEXT 
+TEXT 元気ですね. japanisu tesuto, que no se ve por la fuente D:
+TEXT Estas lineas las estoy leyendo de un archivo de texto
+TEXT Piola, no?
+TEXT Todavia no soporta textos \n mutilinea \r\n :(
+TEXT pero si textos cortos y laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaargos
+MUSIC asd.wav
+TEXT ahora te hago desaparecer al personaje de la izquierda
+SET 100;;300
+TEXT y ahora al de la derecha
+SET 100;gg;izi
+FADEIN 1000
+FADEOUT 5000
+TEXT ADIOS
+ENDFILE
+// A new line is needed for the ENDFILE to be colered. It'll work anyway if there is none though
