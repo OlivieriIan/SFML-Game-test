@@ -1,0 +1,15 @@
+﻿  Chat.cpp
+D:\zzzProgramming\SFML\ourGames\ourGame\Chat.hpp(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Debugger.cpp
+D:\zzzProgramming\SFML\ourGames\ourGame\Debugger.h(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Entity.cpp
+D:\zzzProgramming\SFML\ourGames\ourGame\Entity.hpp(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameEngine.cpp
+D:\zzzProgramming\SFML\ourGames\ourGame\GameEngine.hpp(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  InputHandler.cpp
+D:\zzzProgramming\SFML\ourGames\ourGame\InputHandler.hpp(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+D:\zzzProgramming\SFML\ourGames\ourGame\GameEngine.hpp(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ResourceManager.cpp
+D:\zzzProgramming\SFML\ourGames\ourGame\ResourceManager.hpp(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
