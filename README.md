@@ -1,4 +1,5 @@
 # SFML-Game-test
-SFML Game programmint test
+SFML Game programming test
 
-Start of Project: 13/03/20
+Start of Project: 20/March/2013.
+Duration: a few weeks
